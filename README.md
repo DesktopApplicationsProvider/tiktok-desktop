@@ -2,9 +2,11 @@
 
 TikTok for desktop is the same TikTok but for Windows as desktop application
 
-TikTok windows desktop is a video-sharing social networking service
+TikTok Desktop is a video-sharing social networking service
 
-TikTok desktop allows to create and upload content from windows desktop.
+TikTok Desktop allows to create and upload content from windows desktop.
+
+Read more on the [Official TikTok Desktop Website.](https://desktopapplicationsprovider.github.io/tiktok-desktop/).
 
 1.   Perks of having TikTok windows App:
      - An icon on your quick access spots
